@@ -1,4 +1,4 @@
-name=LuneOS
+name=AOSP-4.4.4
  #https:// is mandatory in manifest link!
 manifest=https://android.googlesource.com/platform/manifest
 branch=android-4.4.4_r2.0.1
